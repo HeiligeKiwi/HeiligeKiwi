@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HeiligeKiwi
+- 👀 I’m interested in programming and working with wood
+- 🌱 I’m currently learning (C++)
+- 📫 How to reach me (discord): heiligekiwi
